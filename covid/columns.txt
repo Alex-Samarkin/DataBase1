@@ -1,0 +1,13 @@
+casename	Name	Type	MD code	Length	Long Name (label or formula)	Measurement Type	Excluded	Label	Var9
+1	ФИО	Text	-999999998	40		General	Auto		
+2	Дата рождения	Double	-999999998	8		[WINDOW DATE FORMAT]	Auto		
+3	Возраст	Double	-999999998	8	=(v5-v2)/365	0	Auto		
+4	Диагноз	Text	-999999998	5		General	Auto		
+5	Диагноз установлен	Double	-999999998	8		[WINDOW DATE FORMAT]	Auto		
+6	Осложнение основного диагноза	Text	-999999998	5		General	Auto		
+7	Вид лечения	Text	-999999998	20		General	Auto		
+8	Дата госпитализации	Double	-999999998	8		[WINDOW DATE FORMAT]	Auto		
+9	Дата исхода заболевания	Double	-999999998	8		[WINDOW DATE FORMAT]	Auto		
+10	Исход заболевания	Text	-999999998	28		General	Auto		
+11	Степень тяжести	Text	-999999998	18		General	Auto		
+12	Посмертный диагноз	Text	-999999998	5		General	Auto		
